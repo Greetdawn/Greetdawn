@@ -8,6 +8,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/greetdawn_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgreetdawn_&screen_name=greetdawn_)
 
-### 关注我
-  www.greetdawn.top
+:zap: GitHub Stats
 
+<img align="left" alt="n3wt0n's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jas502n&show_icons=true&hide_border=true&count_private=true" />
